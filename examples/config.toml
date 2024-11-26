@@ -1,0 +1,3 @@
+[database]
+port = 8000
+temp_targets = { cpu = 79.5, case = 72.0 }

@@ -1,0 +1,6 @@
+[advanced]
+compressionthreshold = 256
+compressionlevel = -1
+loginratelimit = 300
+connectiontimeout = 5000
+readtimeout = 30000
